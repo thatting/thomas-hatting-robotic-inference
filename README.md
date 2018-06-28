@@ -1,6 +1,6 @@
 # thomas-hatting-robotic-inference
 
-
+This documentation is covered by an MIT License.  See also Udacity's Honor Code below:
 
 
 By enrolling in a Udacity program or Online Course, or otherwise accessing the Udacity platform or interacting with any of the Udacity Services, you agree to abide by the following Udacity Honor Code, which we created to ensure the best learning experience for you and for all other Udacity Students (as defined in our Terms of Service). Students found to be acting in violation of the terms set forth may be asked to leave their program without a refund. By using Udacity, you also agree to our Terms of Use, including the User Conduct Policy, and, if you participate in any of our communities, the Community Code of Conduct. Please conduct yourself responsibly and employ common-sense when participating in any Udacity community or program. You further understand and agree that all decisions regarding participation, graduation, and awarding of verified certificates will be made by Udacity in its sole discretion.
