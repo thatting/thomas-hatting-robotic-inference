@@ -1,4 +1,4 @@
-# Project Robotic Inference - Thomas Hatting
+# Project Robotic Inference
 
 PROJECT LICENSE
 
