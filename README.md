@@ -1,4 +1,4 @@
-# thomas-hatting-robotic-inference
+# Project Robotic Inference - Thomas Hatting
 
 This documentation is covered by an MIT License.  See also Udacity's Honor Code below:
 
