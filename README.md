@@ -1,6 +1,6 @@
 # Project Robotic Inference - Thomas Hatting
 
-The enclose code and documentation is covered by an MIT License.  
+The enclosed code and documentation is covered by an MIT License.  
 
 See also Udacity's Honor Code below:
 
